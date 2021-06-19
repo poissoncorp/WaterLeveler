@@ -11,5 +11,5 @@ Water Leveler is a solution for to ACM2001F [Problem](http://cepc.mimuw.edu.pl/2
 - Use Entity Framework ORM to communicate between program and database
 - Create web application using ASP.NET
 - Create nice looking frontend with React
-- Idea - pushing an "add" button on website is making the new Cistern in Unity appear with recalculation of water level
+- Idea - pushing an "add" button on website makes the new Cistern in Unity appear with recalculation of water level
 
